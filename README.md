@@ -44,5 +44,3 @@ The script will:
 5. 🎧 Output: output_video.mp4 – a video with only vocals retained
 
 
-Test video:
-https://youtube.com/shorts/G6lLz5PO5_A?si=rzvfo55H4pihWQqT
