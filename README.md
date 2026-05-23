@@ -42,3 +42,7 @@ The script will:
 3. 🎙️ Separate vocals using Demucs  
 4. 🔄 Merge the isolated vocals back into the original video  
 5. 🎧 Output: output_video.mp4 – a video with only vocals retained
+
+
+Test video:
+https://youtube.com/shorts/G6lLz5PO5_A?si=rzvfo55H4pihWQqT

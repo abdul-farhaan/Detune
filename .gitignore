@@ -1,0 +1,16 @@
+# Ignore sensitive cookies
+cookies.txt
+cookies.txt.txt
+
+# Ignore temporary media files
+input_video.mp4
+output_video.mp4
+audio.wav
+
+# Ignore AI model output and heavy tools
+separated/
+ffmpeg-7.1.1-essentials_build/
+
+# Ignore Python environments
+.venv/
+__pycache__/
